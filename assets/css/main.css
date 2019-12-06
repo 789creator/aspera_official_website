@@ -11,6 +11,7 @@ a:focus, input:focus, button:focus, textarea:focus {
 }
 
 p {
+
     margin-top: 0;
     margin-bottom: 10px;
 }
