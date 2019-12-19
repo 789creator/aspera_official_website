@@ -56,6 +56,18 @@
 		wow.init();
 	});
 
+
+function resetmm()
+{
+    document.getElementById('edit-mm-wt').selectedIndex=0;
+}
+
+function resetsch()
+{
+    document.getElementById('edit-schedule').selectedIndex=0;
+}
+
+
 	/**
    * [debounce description]
    * @param  {[type]} func      [description]
