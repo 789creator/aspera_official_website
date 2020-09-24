@@ -758,7 +758,12 @@ ul {
 .contact__item:hover .contact__icon {
     background: #333;
 }
-
+.contact>.contact__item div{
+text-align:left
+}
+.contact>.contact__item span{
+font-weight:bold
+}
 /* 6. countTo
 --------------------------------------------------------------------------------*/
 
@@ -3486,3 +3491,4 @@ ul {
     line-height: 28px;
     font-style: italic;
 }
+
